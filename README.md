@@ -21,8 +21,8 @@ Navigate to the Cloned Directory
 ```bash
 cd PdfGeneratorFromUrlApi
 ```
-#Running the Application
-##Using Docker Compose
+# Running the Application
+## Using Docker Compose
 
 To build and run the Docker container, execute:
 ```bash
